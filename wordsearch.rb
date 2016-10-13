@@ -100,7 +100,7 @@ class WordPuz
       puts "Unused words: #{unused_words.to_a.join(', ')}"
     end
 
-    puts "Unused characters: #{unused}"
+    puts "Unused letters: #{unused}"
   end
 end
 
